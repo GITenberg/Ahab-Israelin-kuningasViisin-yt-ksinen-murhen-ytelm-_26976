@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32381'
     url: http://www.gutenberg.org/2009/agents/32381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26976#Ahab-Israelin-kuningasViisin-yt-ksinen-murhen-ytelm-
 gutenberg_issued: '2008-10-20'
 gutenberg_type: Text
 identifiers:
